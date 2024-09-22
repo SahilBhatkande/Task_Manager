@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Task manager",
+			"path": "../../../../../trackapp/Task manager"
+		},
+		{
+			"name": "starter",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
